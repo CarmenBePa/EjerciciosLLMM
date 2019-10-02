@@ -43,5 +43,5 @@ Congelado vario | 2 paquetes
 
 
 
-![GitHub Logo](/Sin titulo-2.png)
+![GitHub Logo](/emoti..png)
 Format: ![Alt Text](url)
