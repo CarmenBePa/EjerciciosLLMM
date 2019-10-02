@@ -2,6 +2,9 @@
 Ejercicios de lenguaje de marca
 
 
+## ¿Que es Markdown?
+*Markdown es un lenguaje de marcado ligero creado por John Gruber que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano* 
+
 
 ## Cabecera aleatoria numero 1
 Un buen ejemplo de texto aleatorio para la cabecera numero 1
