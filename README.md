@@ -7,7 +7,7 @@ Recopilacion de ejercicios de la asignatura de Lengua de Marca de 1º de DAW
 Nº de ejercicio | Enlace
 ------------ | -------------
 Ejercicio nº1  |  [Ejercicio1!](TEMA1/Ejercicio1.html )
-Ejercicio nº2  |  [Ejercicio2!](TEMA1/Actividad_1_2)
-Ejercicio nº3  |
+Ejercicio nº2  |  
+Ejercicio nº3  |  [Ejercicio3!](TEMA1/Actividad_1_3)
 
 
