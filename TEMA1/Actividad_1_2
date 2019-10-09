@@ -1,13 +1,20 @@
-<html>
-  <head> 
-       <title> Saga de libros "Eragon" </title>
-  </head>   
-   
-  <body> 
-        <h1> crear tabla </h1>
-		
-		
-		<p> Crear tabla de libros. </p>
+<?xml version="1.0" encoding="utf8"?>
+<biblioteca>
 
-</body>	
-</html>	 
+       <libro>
+            <p> <titulo> Eragon  </titulo> </p>
+            <p> <autor> christopher paolini </autor> </p>
+            <p> <editorial> Roca Libros </editorial> </p>
+            <p> <edicion> Coleccionista </edicion> </p>
+            <p> <paginas> 544 </paginas> </p>
+      <libro>  
+   
+      <libro>
+           <p> <titulo> Eldest </titulo> </p>
+           <p> <autor> christopher paolini </autor> </p>
+           <p> <editorial> Roca Libros </editorial> </p>
+           <p> <edicion> Coleccionista </edicion> </p>
+           <p> <paginas> 704 </paginas> </p>
+      <libro> 
+	  
+</biblioteca>	 
