@@ -15,4 +15,4 @@ Ejercicio nº4  |  [Ejercicio4!](Trabajos/README)
 
 Nº de ejercicio | Enlace
 ------------ | -------------
-Ejercicio nº1 (apartado 1) | [Ejercicio1!](TEMA2/T2_ActividadHTML_1.html)
+Ejercicio nº1  | [Ejercicio1!](TEMA2/T2_ActividadHTML_1.html)
