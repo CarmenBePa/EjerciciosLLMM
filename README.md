@@ -15,10 +15,10 @@ Ejercicio nº4  |  [Ejercicio4!](Trabajos/README)
 
 Nº de ejercicio | Enlace
 ------------ | -------------
-Ejercicio nº1  | [Ejercicio1!](TEMA2/T2_ActividadHTML_1.html)
-Ejercicio nº2 | [Ejercicio2!](TEMA2/T2_ActividadHTML_2)
-Ejercicio nº3 | [Ejercicio3!](TEMA2/T2_ActividadHTML_3)
-Ejercicio nº4 | [Ejercicio4!](TEMA2/T2_ActividadHTML_4)
-Ejercicio nº5 | [Ejercicio5!](TEMA2/Ejercicio_5/portfolio/indice.html)
-Ejercicio nº6 | [Ejercicio6!](TEMA2/T2_ActividadHTML_6)
-Ejercicio nº7 | [Ejercicio7!](TEMA2/T2_ActividadHTML_7)
+Ejercicio nº1 | [Ejercicio1!](TEMA2/T2_ActividadHTML_1.html)
+Ejercicio nº2 | [Ejercicio2!](TEMA2/T2_ActividadHTML_2.html)
+Ejercicio nº3 | [Ejercicio3!](TEMA2/T2_ActividadHTML_3.html)
+Ejercicio nº4 | [Ejercicio4!](TEMA2/T2_ActividadHTML_4.html)
+Ejercicio nº5 | [Ejercicio5!]
+Ejercicio nº6 | [Ejercicio6!](TEMA2/T2_ActividadHTML_6.html)
+Ejercicio nº7 | [Ejercicio7!](TEMA2/T2_ActividadHTML_7.html)
