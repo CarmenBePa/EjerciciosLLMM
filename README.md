@@ -15,7 +15,7 @@ Ejercicio nº4  |  [Ejercicio4!](Trabajos/README)
 
 Nº de ejercicio | Enlace
 ------------ | -------------
-Ejercicio nº1  | [Ejercicio1!](TEMA 2/T2_ActividadHTML_1.html)
+Ejercicio nº1  | [Ejercicio1!](TEMA_2/T2_ActividadHTML_1.html)
 Ejercicio nº2 | [Ejercicio2!](TEMA 2/T2_ActividadHTML_2)
 Ejercicio nº3 | [Ejercicio3!](TEMA 2/T2_ActividadHTML_3)
 Ejercicio nº4 | [Ejercicio4!](TEMA 2/T2_ActividadHTML_4)
