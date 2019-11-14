@@ -1,0 +1,22 @@
+<style>
+#CAB { border-style: solid;
+        border-color:#ffff4d;}
+
+#PAR1 {border: 01px solid black;
+       margin:  0px; solid black;
+       padding:50px;}
+	   
+#PAR2 {border: 01px solid black;
+       margin: 30px;
+       padding: 0px;}
+
+#PAR3 {border: 01px solid black;
+      margin: 50px;
+      padding:30px;}	
+
+#PAR4 {border: 01px solid black;
+      margin: 30px;
+      padding:50px;}	   
+
+
+</style>
