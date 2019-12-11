@@ -26,4 +26,12 @@ Ejercicio nº8 | [Ejercicio8!](TEMA2/T2_ActividadHTML_8.html)
 Ejercicio nº9 | [Ejercicio9!](TEMA2/T2_ActividadHTML_9.html)
 Ejercicio nº10 | [Ejercicio10!](TEMA2/T2_ActividadHTML_10.html)
 Ejercicio nº11 | [Ejercicio11!](TEMA2/T2_ActividadHTML_11.html)
-Ejercicio nº11.2 | [Ejercicio11.2!](TEMA2/Actividad_11/T2_ActividadHTML_11(estilo CSS).html)
+Ejercicio nº12 | [Ejercicio12!]
+Ejercicio nº13 | [Ejercicio13!]
+Ejercicio nº14 | [Ejercicio14!]
+Ejercicio nº15 | [Ejercicio15!]
+Ejercicio nº16 | [Ejercicio16!]
+Ejercicio nº17 | [Ejercicio17!]
+Ejercicio nº18 | [Ejercicio18!]
+
+
