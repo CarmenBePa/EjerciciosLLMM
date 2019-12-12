@@ -26,12 +26,12 @@ Ejercicio nº8 | [Ejercicio8!](TEMA2/T2_ActividadHTML_8.html)
 Ejercicio nº9 | [Ejercicio9!](TEMA2/T2_ActividadHTML_9.html)
 Ejercicio nº10 | [Ejercicio10!](TEMA2/T2_ActividadHTML_10.html)
 Ejercicio nº11 | [Ejercicio11!](TEMA2/T2_ActividadHTML_11.html)
-Ejercicio nº12 | [Ejercicio12!]
-Ejercicio nº13 | [Ejercicio13!]
-Ejercicio nº14 | [Ejercicio14!]
-Ejercicio nº15 | [Ejercicio15!]
-Ejercicio nº16 | [Ejercicio16!]
-Ejercicio nº17 | [Ejercicio17!]
-Ejercicio nº18 | [Ejercicio18!]
+Ejercicio nº12 | [Ejercicio12!](TEMA2/T2_ActividadHTML_12.html)
+Ejercicio nº13 | [Ejercicio13!](TEMA2/T2_ActividadHTML_13.html)
+Ejercicio nº14 | [Ejercicio14!](TEMA2/T2_ActividadHTML_14.html)
+Ejercicio nº15 | [Ejercicio15!](TEMA2/T2_ActividadHTML_15.html)
+Ejercicio nº16 | [Ejercicio16!](TEMA2/T2_ActividadHTML_16.html)
+Ejercicio nº17 | [Ejercicio17!](TEMA2/T2_ActividadHTML_17.html)
+Ejercicio nº18 | [Ejercicio18!](TEMA2/T2_ActividadHTML_18.html)
 
 
