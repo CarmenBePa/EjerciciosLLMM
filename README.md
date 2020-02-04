@@ -37,4 +37,7 @@ Ejercicio nº19. Iframe | [Ejercicio19!](TEMA2/T2_ActividadHTML_19)
 Ejercicio nº20. Formularios | [Ejercicio20!]
 Ejercicio nº21. Formularios 2 | [Ejercicio21!]
 Ejercicio nº22. Website | [Ejercicio22!](TEMA2/T2_ActividadHTML_22.html)
+Ejercicio nº23. Formularios | [Ejercicio23!]
+Ejercicio nº24. Formularios | [Ejercicio24!]
+Ejercicio nº25. Formularios | [Ejercicio25!]
 Ejercicio nº26. Website | [Ejercicio26!](TEMA2/T2_ActividadHTML_26.html)
