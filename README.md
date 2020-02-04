@@ -36,5 +36,5 @@ Ejercicio nº18. Imagenes en miniatura | [Ejercicio18!](TEMA2/T2_ActividadHTML_1
 Ejercicio nº19. Iframe | [Ejercicio19!](TEMA2/T2_ActividadHTML_19)
 Ejercicio nº20. Formularios | [Ejercicio20!]
 Ejercicio nº21. Formularios 2 | [Ejercicio21!]
-Ejercicio nº22. Website | [Ejercicio22!](TEMA2/T2_ActividadHTML_22/ejercicio22.html)
+Ejercicio nº22. Website | [Ejercicio22!](TEMA2/T2_ActividadHTML_22.html)
 Ejercicio nº26. Website | [Ejercicio26!](TEMA2/T2_ActividadHTML_26.html)
