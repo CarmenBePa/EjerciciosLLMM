@@ -46,11 +46,12 @@ Ejercicio nº26. Website | [Ejercicio26!](TEMA2/T2_ActividadHTML_26.html)
 
 Nº de ejercicio | Enlace
 ------------ | -------------
-Ejercicio nº1  |  [Ejercicio1!]
-Ejercicio nº2  |  [Ejercicio2!]
-Ejercicio nº3  |  [Ejercicio3!]
-Ejercicio nº4  |  [Ejercicio4!]
-Ejercicio nº5  |  [Ejercicio5!]
-Ejercicio nº6  |  [Ejercicio6!]
-Ejercicio nº7  |  [Ejercicio7!]
-Ejercicio nº8  |  [Ejercicio8!]
+Ejercicio nº1    |  [Ejercicio1!](TEMA2/CSS/Ejercicio_1_CSS)
+Ejercicio nº2    |  [Ejercicio2!]
+Ejercicio nº3    |  [Ejercicio3!]
+Ejercicio nº4    |  [Ejercicio4!]
+Ejercicio nº5    |  [Ejercicio5!]
+Ejercicio nº6.3  |  [Ejercicio6!](TEMA2/CSS/Actividad_06.2_CSS)
+Ejercicio nº6.3  |  [Ejercicio6!](TEMA2/CSS/Actividad_06.3_CSS)
+Ejercicio nº7    |  [Ejercicio7!]
+Ejercicio nº8    |  [Ejercicio8!]
