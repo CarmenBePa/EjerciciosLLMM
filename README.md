@@ -51,7 +51,7 @@ Ejercicio nº2    |  [Ejercicio2!](TEMA2/CSS/Actividad_02_CSS)
 Ejercicio nº3    |  [Ejercicio3!](TEMA2/CSS/Actividad_03_CSS)
 Ejercicio nº4    |  [Ejercicio4!]
 Ejercicio nº5    |  [Ejercicio5!]
-Ejercicio nº6    |  [Ejercicio6!]
+Ejercicio nº6    |  [Ejercicio6!](TEMA2/CSS/Actividad_06_CSS)
 Ejercicio nº7    |  [Ejercicio7!](TEMA2/CSS/Actividad_06.2_CSS)
 Ejercicio nº8    |  [Ejercicio8!](TEMA2/CSS/Actividad_06.3_CSS)
 Ejercicio nº9    |  [Ejercicio9!](TEMA2/CSS/Actividad_06.4_CSS)
