@@ -48,7 +48,7 @@ Nº de ejercicio | Enlace
 ------------ | -------------
 Ejercicio nº1    |  [Ejercicio1!](TEMA2/CSS/Ejercicio_1_CSS)
 Ejercicio nº2    |  [Ejercicio2!](TEMA2/CSS/Actividad_02_CSS)
-Ejercicio nº3    |  [Ejercicio3!]
+Ejercicio nº3    |  [Ejercicio3!](TEMA2/CSS/Actividad_03_CSS)
 Ejercicio nº4    |  [Ejercicio4!]
 Ejercicio nº5    |  [Ejercicio5!]
 Ejercicio nº6    |  [Ejercicio6!]
